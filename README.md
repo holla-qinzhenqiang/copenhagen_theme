@@ -1,5 +1,11 @@
 # Template Help
 * [home_page](https://developer.zendesk.com/documentation/help_center/help-center-templates/home_page/)
+* https://support.zendesk.com/hc/en-us/articles/4408839332250
+* https://support.zendesk.com/hc/en-us/articles/4408832476698
+* https://support.zendesk.com/hc/en-us/articles/4408822095642
+* https://support.zendesk.com/hc/en-us/articles/4408846524954
+* https://support.zendesk.com/hc/en-us/articles/4605232623386-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B8%AE%E5%8A%A9%E4%B8%AD%E5%BF%83%E4%B8%BB%E9%A2%98#topic_gxl_3qw_n3
+
 # Copenhagen Theme by Zendesk
 
 The Copenhagen theme is the default Zendesk Guide theme. It is designed to be responsive and accessible.
